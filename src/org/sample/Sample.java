@@ -6,6 +6,8 @@ public class Sample {
 		String s="Priya";
 		System.out.println(a);
 		System.out.println(s);
+		int b=2745;
+		System.out.println(b);
 	}
 
 }
